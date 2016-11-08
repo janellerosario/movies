@@ -23,5 +23,5 @@ const apiMoviesRouter = require('./routes/api/movies');
 app.use('/api/movies', apiMoviesRouter);
 
 app.listen(PORT, () => {
-  console.log('connected babybabybabyuuuuughhh...!');
+  console.log('connected YASSss TACOSSSSSSSS!');
 });
